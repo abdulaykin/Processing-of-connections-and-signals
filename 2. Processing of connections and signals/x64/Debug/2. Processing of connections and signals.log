@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Software Tools\Visual Studio 2022\1. Freelance\04.10.2024\3. Operating systems\2. Processing of connections and signals\2. Processing of connections and signals\Source.cpp(63,27): warning C4244: инициализация: преобразование "SOCKET" в "int", возможна потеря данных
+D:\Software Tools\Visual Studio 2022\1. Freelance\04.10.2024\3. Operating systems\2. Processing of connections and signals\2. Processing of connections and signals\Source.cpp(81,37): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+  2. Processing of connections and signals.vcxproj -> D:\Software Tools\Visual Studio 2022\1. Freelance\04.10.2024\3. Operating systems\2. Processing of connections and signals\x64\Debug\2. Processing of connections and signals.exe
